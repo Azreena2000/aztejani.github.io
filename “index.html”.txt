@@ -1,7 +1,26 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+
 </body>
 </html>
+
+<p>&nbsp;</p>
+
+<h1 style="text-align: center;">My name is Azreena Tejani, welcome to my site!</h1>
+
+<center><img src="https://yt3.ggpht.com/a-/AAuE7mDeKyGygAZcIXeT2LWGVeTw7acxK1ATXufMCA=s900-mo-c-c0xffffffff-rj-k-no" width="265" height="266" align="BOTTOM" /></center><hr />
+
+<body bgcolor = "LightYellow">
+
+<p><strong>About Me</strong></p>
+
+<p>My name is Azreena Tejani. My passion is traveling the world, and taking pictures of every location I visit. I also have two dogs who are both shih tzus. During my free time I like editing photos or making videos. <br /><br /></p>
+
+</body>
+
+<p style="text-align: center;"><strong>My Favorite Website</strong></p>
+
+<p style="text-align: center;"><a href="https://www.youtube.com">Click Here to go to my favorite site</a></p>
+
+<hr />
